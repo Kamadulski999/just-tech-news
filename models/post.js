@@ -69,4 +69,10 @@ Post.init(
   }
 );
 
+<<<<<<<<< Temporary merge branch 1
   module.exports = Post;
+
+  //
+=========
+module.exports = Post;
+>>>>>>>>> Temporary merge branch 2
